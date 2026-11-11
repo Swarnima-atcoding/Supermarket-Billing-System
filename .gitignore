@@ -1,0 +1,22 @@
+
+# Java compiled files
+*.class
+
+# IDE files
+.idea/
+.vscode/
+
+# Build folders
+out/
+target/
+bin/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Private database configuration
+db.properties
+
+# Temporary files
+*.log
